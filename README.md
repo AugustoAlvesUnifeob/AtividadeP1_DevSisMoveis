@@ -1,17 +1,15 @@
-# atividadeavaliativa
+# Atividade Avaliativa 1° Bimestre - Desenvolvimento de sistemas Móveis
+Nome: Augusto Barreto Gomes Alves RA: 25000112
 
-A new Flutter project.
+## Sobre:
+  - Fluxo basico de login e cadastro de usuários usando listas
 
-## Getting Started
+## Rota de navegação:
+  - Splash Page fica aberta por 3 segundos
+  - redireciona automaticamente para pagina de login
+  - caso necessário usuário pode ir para pagina de cadastro
+  - caso o cadastro ou o login forem feitos com sucesso, usuário acessa a HOME
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Como rodar:
+  - Abrir o emulador ou conectar seu dispositivo móvel
+  - rodar main.dart na pasta lib
